@@ -5,4 +5,5 @@ checkbox: false
 group: 
 ---
 
-This is a markdown note template for a displayed time-block.
+This is a markdown note template for a displayed time-block. 
+If you'd like to directly use it, open it in GitHub's "code" preview and copy paste the content to your Obsidian template note.
