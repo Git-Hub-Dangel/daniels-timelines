@@ -40,7 +40,7 @@ You can orchestrate the timeline-view to fit your exact requirements with its av
 - `checkBoxProperty [string]` The string name of your note's common checkbox property. If this timeline property is defined, an interactive checkbox will be displayed within each rendered note on the timeline. Checking it, recursively acts on the note itself. **If unused, leave the property undefined** 
 - `showMarker [bool]` Show red vertical "today" line
 - `viewMarkerOffset [0-100]` Define the left offset of where the today marker sits on initial load. For reference: `0` = left edge, `50` = centred, `100` = right edge.
-- `wrapTitles [bool]` Wraps lables instead of appending "..." to overflowing ones. (Enabling this can potentially offset the labels displayed by an also enabled `groupDisplay` property)
+- `wrapTitles [bool]` Wraps labels instead of appending "..." to overflowing ones. (Enabling this can potentially offset the labels of the enabled `groupDisplay` property)
 
 ## Examples with Inline Code
 For the properties explained above, let me show some examples
