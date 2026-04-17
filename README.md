@@ -19,7 +19,7 @@ After activation, your timeline view can be created by either typing out an inli
 ### Properties
 You can orchestrate the timeline-view to fit your exact requirements with its available properties. Here's a brief overview of them
 
-![Properties](./images/inline-code.png)
+![Properties](./images/inline-properties.png)
 
 #### Required Properties
 
