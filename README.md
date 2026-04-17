@@ -43,7 +43,7 @@ You can orchestrate the timeline-view to fit your exact requirements with its av
 - `wrapTitles [bool]` Wraps labels instead of appending "..." to overflowing ones. (Enabling this can potentially offset the labels of the enabled `groupDisplay` property)
 
 ## Examples with Inline Code
-For the properties explained above, let me show some examples
+For the properties explained above, let me show some examples. To see how the notes themselves can be formatted, view ![this](/EXAMPLE_NOTE.md) example that I use myself. 
 ### First Example ( regular grouped view )
 ![Books with Code](./images/default-books.png)
 ### Second Example ( minimal grouped weekly to-do, custom colors )
