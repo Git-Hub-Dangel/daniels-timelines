@@ -1,0 +1,9 @@
+{
+  "id": "daniels-timelines",
+  "name": "Daniel's Timelines",
+  "version": "1.0.1",
+  "minAppVersion": "1.0.0",
+  "description": "A lightweight horizontal timeline view of your time-sensitive notes and tasks with frontmatter properties.",
+  "author": "Daniel",
+  "isDesktopOnly": false
+}
