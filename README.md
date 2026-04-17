@@ -23,7 +23,7 @@ You can orchestrate the timeline-view to fit your exact requirements with its av
 
 #### Required Properties
 
-- `source [string]` Dictates the directory from which the respective timeline view sources your time-dependent notes. All files within will be displayed.
+- `source [string]` Dictates the directory path whose notes will be sourced by the timeline. All files within will be displayed.
 - `timespan [{n}{unit}]` The horizontal density of displayed notes. The definition follows the syntax `{n}{unit}` and uses conventional measures of time for `unit`:
     - `d` days
     - `w` weeks
